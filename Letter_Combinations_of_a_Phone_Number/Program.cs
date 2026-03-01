@@ -1,7 +1,4 @@
 ﻿
-
-
-
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -28,10 +25,12 @@ namespace Letter_Combinations_of_a_Phone_Number
             List<string> result = new List<string>();
 
             // Eğer input boşsa boş liste döndür
+
             if (string.IsNullOrEmpty(digits))
                 return result;
 
             // Telefon tuş haritalaması
+
             string[] phoneMap = new string[]
             {
                 "",     // 0
@@ -47,6 +46,7 @@ namespace Letter_Combinations_of_a_Phone_Number
             };
 
             // Backtracking başlat
+
             Backtrack(0, new StringBuilder(), digits, phoneMap, result);
 
             return result;
@@ -55,6 +55,7 @@ namespace Letter_Combinations_of_a_Phone_Number
         private void Backtrack(int index, StringBuilder current, string digits, string[] phoneMap, List<string> result)
         {
             // Tüm rakamlar işlendiğinde kombinasyonu ekle
+
             if (index == digits.Length)
             {
                 result.Add(current.ToString());
