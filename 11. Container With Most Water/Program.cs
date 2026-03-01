@@ -24,7 +24,7 @@ namespace _11.Container_With_Most_Water
             Console.WriteLine("Max Area: " + result);
         }
 
-        public int MaxArea(int[] height)
+        public int MaxArea(int[] height)                        // commit 
         {
             int left = 0;
             int right = height.Length - 1;
