@@ -1,0 +1,8 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\bin\Debug\_693.Binary_Number_with_Alternating_Bits.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\bin\Debug\_693.Binary_Number_with_Alternating_Bits.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\bin\Debug\_693.Binary_Number_with_Alternating_Bits.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\obj\Debug\693. Binary Number with Alternating Bits.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\obj\Debug\693. Binary Number with Alternating Bits.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\obj\Debug\_693.Binary_Number_with_Alternating_Bits.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\obj\Debug\_693.Binary_Number_with_Alternating_Bits.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\693. Binary Number with Alternating Bits\obj\Debug\_693.Binary_Number_with_Alternating_Bits.exe.config

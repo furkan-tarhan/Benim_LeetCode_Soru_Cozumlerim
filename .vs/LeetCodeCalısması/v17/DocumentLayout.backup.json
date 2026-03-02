@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E197B17F-660B-4C22-BBB9-8F5165285FCD}|693. Binary Number with Alternating Bits\\693. Binary Number with Alternating Bits.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\693. binary number with alternating bits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E197B17F-660B-4C22-BBB9-8F5165285FCD}|693. Binary Number with Alternating Bits\\693. Binary Number with Alternating Bits.csproj|solutionrelative:693. binary number with alternating bits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31FC63E6-EC1B-4259-9509-9951F8727423}|11. Container With Most Water\\11. Container With Most Water.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\11. container with most water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31FC63E6-EC1B-4259-9509-9951F8727423}|11. Container With Most Water\\11. Container With Most Water.csproj|solutionrelative:11. container with most water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC5F8E9A-1035-4896-8C70-79B93E6FBCC4}|Letter_Combinations_of_a_Phone_Number\\Letter_Combinations_of_a_Phone_Number.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\letter_combinations_of_a_phone_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC5F8E9A-1035-4896-8C70-79B93E6FBCC4}|Letter_Combinations_of_a_Phone_Number\\Letter_Combinations_of_a_Phone_Number.csproj|C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\letter_combinations_of_a_phone_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC5F8E9A-1035-4896-8C70-79B93E6FBCC4}|Letter_Combinations_of_a_Phone_Number\\Letter_Combinations_of_a_Phone_Number.csproj|solutionrelative:letter_combinations_of_a_phone_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\693. Binary Number with Alternating Bits\\Program.cs",
+              "RelativeDocumentMoniker": "693. Binary Number with Alternating Bits\\Program.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\693. Binary Number with Alternating Bits\\Program.cs*",
+              "RelativeToolTip": "693. Binary Number with Alternating Bits\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:03:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\11. Container With Most Water\\Program.cs",
               "RelativeDocumentMoniker": "11. Container With Most Water\\Program.cs",
               "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\11. Container With Most Water\\Program.cs",
               "RelativeToolTip": "11. Container With Most Water\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T20:21:16.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Letter_Combinations_of_a_Phone_Number\\Program.cs",
               "RelativeDocumentMoniker": "Letter_Combinations_of_a_Phone_Number\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Letter_Combinations_of_a_Phone_Number\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T19:19:55.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T19:19:55.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\LeetCodeCal\u0131smas\u0131\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeCal\u0131smas\u0131\\Program.cs",

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letter_Combinations_of_a_Ph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Container With Most Water", "11. Container With Most Water\11. Container With Most Water.csproj", "{31FC63E6-EC1B-4259-9509-9951F8727423}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "693. Binary Number with Alternating Bits", "693. Binary Number with Alternating Bits\693. Binary Number with Alternating Bits.csproj", "{E197B17F-660B-4C22-BBB9-8F5165285FCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{31FC63E6-EC1B-4259-9509-9951F8727423}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31FC63E6-EC1B-4259-9509-9951F8727423}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31FC63E6-EC1B-4259-9509-9951F8727423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E197B17F-660B-4C22-BBB9-8F5165285FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E197B17F-660B-4C22-BBB9-8F5165285FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E197B17F-660B-4C22-BBB9-8F5165285FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E197B17F-660B-4C22-BBB9-8F5165285FCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
