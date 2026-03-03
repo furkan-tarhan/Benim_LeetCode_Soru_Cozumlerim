@@ -1,0 +1,7 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\696. Count Binary Substrings\bin\Debug\_696.Count_Binary_Substrings.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\696. Count Binary Substrings\bin\Debug\_696.Count_Binary_Substrings.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\696. Count Binary Substrings\bin\Debug\_696.Count_Binary_Substrings.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\696. Count Binary Substrings\obj\Debug\696. Count Binary Substrings.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\696. Count Binary Substrings\obj\Debug\696. Count Binary Substrings.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\696. Count Binary Substrings\obj\Debug\_696.Count_Binary_Substrings.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\696. Count Binary Substrings\obj\Debug\_696.Count_Binary_Substrings.pdb
