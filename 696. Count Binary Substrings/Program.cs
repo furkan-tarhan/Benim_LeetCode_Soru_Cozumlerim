@@ -15,27 +15,31 @@ namespace _696.Count_Binary_Substrings
         }
         static int CountBinarySubstrings(string s)
         {
-            int prevGroup = 0;
-            int currGroup = 1;
-            int result = 0;
+            int onceki = 0;
+
+            int mevcut = 1;
+
+            int sonuc = 0; // sonuç
 
             for (int i = 1; i < s.Length; i++)
             {
                 if (s[i] == s[i - 1])
                 {
-                    currGroup++;
+                    mevcut++;
                 }
                 else
                 {
-                    result += Math.Min(prevGroup, currGroup);
-                    prevGroup = currGroup;
-                    currGroup = 1;
+                    sonuc += Math.Min(onceki,mevcut);
+
+                    onceki = mevcut;
+
+                    mevcut = 1;
                 }
             }
 
-            result += Math.Min(prevGroup, currGroup);
+            sonuc += Math.Min(onceki, mevcut);
 
-            return result;
+            return sonuc;
         }
     }
 }
