@@ -38,7 +38,7 @@ namespace _693.Binary_Number_with_Alternating_Bits
 
             }
 
-        return true;
+        return true;  // return da methodun boolean döndürmesi için true (false olsa while döngüsünden çıkmaz)
         }
 
 
