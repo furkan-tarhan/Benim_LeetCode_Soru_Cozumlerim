@@ -11,7 +11,7 @@ namespace _696.Count_Binary_Substrings
         static void Main(string[] args)
         {
             string s = "00110011";
-            Console.WriteLine(CountBinarySubstrings(s)); // 6
+            Console.WriteLine(CountBinarySubstrings(s)); //      6sss
         }
         static int CountBinarySubstrings(string s)
         {
