@@ -1,0 +1,8 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\bin\Debug\Valid_Palindrome_125.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\bin\Debug\Valid_Palindrome_125.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\bin\Debug\Valid_Palindrome_125.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\obj\Debug\Valid_Palindrome_125.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\obj\Debug\Valid_Palindrome_125.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\obj\Debug\Valid_Palindrome_125.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\obj\Debug\Valid_Palindrome_125.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Valid_Palindrome_125\obj\Debug\Valid_Palindrome_125.exe.config
