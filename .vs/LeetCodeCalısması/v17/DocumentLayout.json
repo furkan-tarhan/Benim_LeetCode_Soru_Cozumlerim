@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{166E5E0E-175C-40AD-9118-0E4C606FD452}|696. Count Binary Substrings\\696. Count Binary Substrings.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\696. count binary substrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{166E5E0E-175C-40AD-9118-0E4C606FD452}|696. Count Binary Substrings\\696. Count Binary Substrings.csproj|solutionrelative:696. count binary substrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E197B17F-660B-4C22-BBB9-8F5165285FCD}|693. Binary Number with Alternating Bits\\693. Binary Number with Alternating Bits.csproj|C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\693. binary number with alternating bits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E197B17F-660B-4C22-BBB9-8F5165285FCD}|693. Binary Number with Alternating Bits\\693. Binary Number with Alternating Bits.csproj|solutionrelative:693. binary number with alternating bits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31FC63E6-EC1B-4259-9509-9951F8727423}|11. Container With Most Water\\11. Container With Most Water.csproj|C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\11. container with most water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31FC63E6-EC1B-4259-9509-9951F8727423}|11. Container With Most Water\\11. Container With Most Water.csproj|solutionrelative:11. container with most water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC5F8E9A-1035-4896-8C70-79B93E6FBCC4}|Letter_Combinations_of_a_Phone_Number\\Letter_Combinations_of_a_Phone_Number.csproj|C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\letter_combinations_of_a_phone_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC5F8E9A-1035-4896-8C70-79B93E6FBCC4}|Letter_Combinations_of_a_Phone_Number\\Letter_Combinations_of_a_Phone_Number.csproj|solutionrelative:letter_combinations_of_a_phone_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07BFAE0A-BF1A-4891-A4FD-D3437F00AD7E}|LeetCodeCal\u0131smas\u0131\\LeetCodeCal\u0131smas\u0131.csproj|C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\leetcodecal\u0131smas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07BFAE0A-BF1A-4891-A4FD-D3437F00AD7E}|LeetCodeCal\u0131smas\u0131\\LeetCodeCal\u0131smas\u0131.csproj|solutionrelative:leetcodecal\u0131smas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E157C7E4-C492-4E66-8FDE-C0170B843CD8}|Valid_Palindrome_125\\Valid_Palindrome_125.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\valid_palindrome_125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E157C7E4-C492-4E66-8FDE-C0170B843CD8}|Valid_Palindrome_125\\Valid_Palindrome_125.csproj|solutionrelative:valid_palindrome_125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,66 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\696. Count Binary Substrings\\Program.cs",
-              "RelativeDocumentMoniker": "696. Count Binary Substrings\\Program.cs",
-              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\696. Count Binary Substrings\\Program.cs",
-              "RelativeToolTip": "696. Count Binary Substrings\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Valid_Palindrome_125\\Program.cs",
+              "RelativeDocumentMoniker": "Valid_Palindrome_125\\Program.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Valid_Palindrome_125\\Program.cs",
+              "RelativeToolTip": "Valid_Palindrome_125\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:16:38.509Z",
+              "WhenOpened": "2026-03-14T20:18:19.424Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\693. Binary Number with Alternating Bits\\Program.cs",
-              "RelativeDocumentMoniker": "693. Binary Number with Alternating Bits\\Program.cs",
-              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\693. Binary Number with Alternating Bits\\Program.cs",
-              "RelativeToolTip": "693. Binary Number with Alternating Bits\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T13:03:07.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\11. Container With Most Water\\Program.cs",
-              "RelativeDocumentMoniker": "11. Container With Most Water\\Program.cs",
-              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\11. Container With Most Water\\Program.cs",
-              "RelativeToolTip": "11. Container With Most Water\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T20:21:16.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Letter_Combinations_of_a_Phone_Number\\Program.cs",
-              "RelativeDocumentMoniker": "Letter_Combinations_of_a_Phone_Number\\Program.cs",
-              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Letter_Combinations_of_a_Phone_Number\\Program.cs",
-              "RelativeToolTip": "Letter_Combinations_of_a_Phone_Number\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T19:19:55.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\LeetCodeCal\u0131smas\u0131\\Program.cs",
-              "RelativeDocumentMoniker": "LeetCodeCal\u0131smas\u0131\\Program.cs",
-              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\LeetCodeCal\u0131smas\u0131\\Program.cs",
-              "RelativeToolTip": "LeetCodeCal\u0131smas\u0131\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T19:18:49.308Z"
             }
           ]
         }

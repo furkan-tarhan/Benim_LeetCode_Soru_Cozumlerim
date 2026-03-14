@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "693. Binary Number with Alt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "696. Count Binary Substrings", "696. Count Binary Substrings\696. Count Binary Substrings.csproj", "{166E5E0E-175C-40AD-9118-0E4C606FD452}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid_Palindrome_125", "Valid_Palindrome_125\Valid_Palindrome_125.csproj", "{E157C7E4-C492-4E66-8FDE-C0170B843CD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{166E5E0E-175C-40AD-9118-0E4C606FD452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{166E5E0E-175C-40AD-9118-0E4C606FD452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{166E5E0E-175C-40AD-9118-0E4C606FD452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E157C7E4-C492-4E66-8FDE-C0170B843CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E157C7E4-C492-4E66-8FDE-C0170B843CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E157C7E4-C492-4E66-8FDE-C0170B843CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E157C7E4-C492-4E66-8FDE-C0170B843CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
