@@ -10,29 +10,63 @@ namespace Find_the_Duplicate_Number
     {
         static void Main(string[] args)
         {
+    int[]  kola ={1, 2, 3, 4, 5, 56, 65, 656,2, 2, 3, 4, 1,5};
+
+
+            
+            FindDuplicate(kola);
 
 
 
-
-
+            Console.Read();
         }
 
-        public int FindDuplicate(int[] nums)
+        public static void FindDuplicate(int[] nums)
         {
-            // Önce diziyi küçükten büyüğe sıralıyoruz
-            // {1, 3, 4, 2, 2} -> {1, 2, 2, 3, 4} olur
-            Array.Sort(nums);
 
-            // Diziyi gezip yandaki elemanla aynı mı diye bakıyoruz
-            for (int i = 0; i < nums.Length - 1; i++)
+
+
+            //for (int i = 0; i<nums.Length;i++)          //// 1. yöntem    
+            //{                                             //// bu yöntem iç içe for ile yapılıyor ve bu yöntem çok kaba taslak eğer dizi olarak bir 100 elamanlı verilse  
+                                                            //// 100 ^2 kadar işlem gerçekleştirir ondan mütevellit bu yöntem tavsiye edilmez
+            //    int kontrolEdilenSayı= nums[i];
+
+            //    for (int a =i+1;a<nums.Length; a++ )
+            //    {
+            //        if (kontrolEdilenSayı == nums[a])
+            //        {
+            //            Console.WriteLine("Tekrar eden sayı : " + nums[a]);
+
+
+            //        }
+
+
+            //    }
+
+
+            //}
+
+
+            Array.Sort(nums);                        // 2. yöntem 
+
+            for (int i = 0; i<nums.Length-1; i++)    // bu yöntem daha basit ve kolay yolludur  Belirttiğimiz Array.Sort metodu içinde yazılan diziyi küçükten büyüğe yazar 
             {
-                if (nums[i] == nums[i + 1])
+                if (nums[i] == nums[i+1])            // Bizde böylece 1 elemanı yukardaki gibi tüm elamanlar ile kontrol etmeyiz direkt yanındaki elamanla kıyaslarız
                 {
-                    return nums[i]; // Bulduğumuz an döndürüyoruz
+                    Console.WriteLine("Tekrar eden sayı : " + nums[i]);
                 }
+
+                while (i<nums.Length -1 && nums[i]== nums[i+1] )    // Böyle yapıncada eğer bir eleman 2 den fazla kez yazılınca o elemanı 2 kere ekrana yazdırırız 
+                {                                                   // Bunun önüne geçmek içinde while döngüsüne alırız eğer 3. elemnan da aynıysa sayıyı bir arttır ve diğer elemana geç deriz 
+                    i++;
+                }
+
+
             }
 
-            return -1; // Normalde buraya hiç gelmez
+
+
+          
         }
 
 
@@ -50,5 +84,5 @@ namespace Find_the_Duplicate_Number
 
 
 
-    }
+    
 }
