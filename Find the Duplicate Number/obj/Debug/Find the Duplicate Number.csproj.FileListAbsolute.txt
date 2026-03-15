@@ -1,0 +1,2 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\Find the Duplicate Number\obj\Debug\Find the Duplicate Number.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Find the Duplicate Number\obj\Debug\Find the Duplicate Number.csproj.CoreCompileInputs.cache
