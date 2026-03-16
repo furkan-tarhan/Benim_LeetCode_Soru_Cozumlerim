@@ -1,0 +1,8 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\bin\Debug\Two Sum.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\bin\Debug\Two Sum.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\bin\Debug\Two Sum.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\obj\Debug\Two Sum.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\obj\Debug\Two Sum.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\obj\Debug\Two Sum.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\obj\Debug\Two Sum.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Two Sum\obj\Debug\Two Sum.exe.config
