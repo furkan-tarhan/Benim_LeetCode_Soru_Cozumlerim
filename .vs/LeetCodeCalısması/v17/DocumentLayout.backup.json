@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2244D7A0-7BB0-4A53-A5BB-9B6786457553}|Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Best_Time_to_Buy_and_Sell_Stock_LeetCode_121.csproj|solutionrelative:best_time_to_buy_and_sell_stock_leetcode_121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3317439-38F1-4B2D-ADA0-660D41E62199}|Two Sum\\Two Sum.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\two sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3317439-38F1-4B2D-ADA0-660D41E62199}|Two Sum\\Two Sum.csproj|C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\two sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3317439-38F1-4B2D-ADA0-660D41E62199}|Two Sum\\Two Sum.csproj|solutionrelative:two sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Program.cs",
               "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Program.cs*",
               "RelativeToolTip": "Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T19:47:40.216Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Two Sum\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T19:49:01.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T19:49:01.041Z"
             },
             {
               "$type": "Document",
