@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2244D7A0-7BB0-4A53-A5BB-9B6786457553}|Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Best_Time_to_Buy_and_Sell_Stock_LeetCode_121.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\best_time_to_buy_and_sell_stock_leetcode_121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2244D7A0-7BB0-4A53-A5BB-9B6786457553}|Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Best_Time_to_Buy_and_Sell_Stock_LeetCode_121.csproj|solutionrelative:best_time_to_buy_and_sell_stock_leetcode_121\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3317439-38F1-4B2D-ADA0-660D41E62199}|Two Sum\\Two Sum.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\two sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3317439-38F1-4B2D-ADA0-660D41E62199}|Two Sum\\Two Sum.csproj|solutionrelative:two sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B387F4B0-D4A0-4F32-BCC7-D098C6A6257E}|Find the Duplicate Number\\Find the Duplicate Number.csproj|c:\\users\\ms\u0131\\source\\repos\\leetcodecal\u0131smas\u0131\\find the duplicate number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B387F4B0-D4A0-4F32-BCC7-D098C6A6257E}|Find the Duplicate Number\\Find the Duplicate Number.csproj|C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\find the duplicate number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B387F4B0-D4A0-4F32-BCC7-D098C6A6257E}|Find the Duplicate Number\\Find the Duplicate Number.csproj|solutionrelative:find the duplicate number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,18 +32,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Program.cs",
+              "RelativeDocumentMoniker": "Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Program.cs",
+              "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Program.cs",
+              "RelativeToolTip": "Best_Time_to_Buy_and_Sell_Stock_LeetCode_121\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T19:47:40.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Two Sum\\Program.cs",
               "RelativeDocumentMoniker": "Two Sum\\Program.cs",
               "ToolTip": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Two Sum\\Program.cs",
               "RelativeToolTip": "Two Sum\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T19:49:01.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Find the Duplicate Number\\Program.cs",
               "RelativeDocumentMoniker": "Find the Duplicate Number\\Program.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Find the Duplicate Number\\Program.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:04:44.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T20:04:44.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ms\u0131\\source\\repos\\LeetCodeCal\u0131smas\u0131\\Valid_Palindrome_125\\Program.cs",
               "RelativeDocumentMoniker": "Valid_Palindrome_125\\Program.cs",
