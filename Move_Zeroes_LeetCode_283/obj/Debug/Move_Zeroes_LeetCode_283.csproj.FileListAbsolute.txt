@@ -1,0 +1,7 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\Move_Zeroes_LeetCode_283\bin\Debug\Move_Zeroes_LeetCode_283.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\Move_Zeroes_LeetCode_283\bin\Debug\Move_Zeroes_LeetCode_283.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Move_Zeroes_LeetCode_283\bin\Debug\Move_Zeroes_LeetCode_283.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Move_Zeroes_LeetCode_283\obj\Debug\Move_Zeroes_LeetCode_283.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Move_Zeroes_LeetCode_283\obj\Debug\Move_Zeroes_LeetCode_283.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Move_Zeroes_LeetCode_283\obj\Debug\Move_Zeroes_LeetCode_283.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Move_Zeroes_LeetCode_283\obj\Debug\Move_Zeroes_LeetCode_283.pdb
