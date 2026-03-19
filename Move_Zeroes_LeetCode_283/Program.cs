@@ -16,9 +16,10 @@ namespace Move_Zeroes_LeetCode_283
 
             MoveZeroes(sayilar);
 
-            // Sonucu ekrana yazdıralım
-            Console.WriteLine("Sonuç: " + string.Join(", ", sayilar));
-            Console.ReadLine();
+            //// Sonucu ekrana yazdıralım
+            //Console.WriteLine("Sonuç: " + string.Join(", ", sayilar));
+            //Console.ReadLine();
+
 
 
 
@@ -27,24 +28,24 @@ namespace Move_Zeroes_LeetCode_283
         }
         public static void MoveZeroes(int[] nums)
         {
-            int lastNonZeroFoundAt = 0;
+            int yazici = 0;
 
-            // 1. Adım: Sıfır olmayanları sırayla en başa diziyoruz
-            for (int i = 0; i < nums.Length; i++)
+            for (int i = 0; i<nums.Length;i++)
             {
-                if (nums[i] != 0)
+                if (nums[i]!=0)
                 {
-                    nums[lastNonZeroFoundAt] = nums[i];
-                    lastNonZeroFoundAt++;
+                    nums[yazici] = nums[i];
+                    yazici++;
                 }
             }
-
-            // 2. Adım: Geri kalan yerleri sıfırla dolduruyoruz
-            for (int i = lastNonZeroFoundAt; i < nums.Length; i++)
+            for ( int i=yazici;i<nums.Length;i++)
             {
-                nums[i] = 0;
+                nums[i]= 0;
             }
+
+            foreach (var n in nums) Console.Write(n + " ");
         }
     }
+    
 }
     
