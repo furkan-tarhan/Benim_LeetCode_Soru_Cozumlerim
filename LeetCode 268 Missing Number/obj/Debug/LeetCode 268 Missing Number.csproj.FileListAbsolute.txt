@@ -1,0 +1,7 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 268 Missing Number\bin\Debug\LeetCode 268 Missing Number.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 268 Missing Number\bin\Debug\LeetCode 268 Missing Number.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 268 Missing Number\bin\Debug\LeetCode 268 Missing Number.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 268 Missing Number\obj\Debug\LeetCode 268 Missing Number.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 268 Missing Number\obj\Debug\LeetCode 268 Missing Number.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 268 Missing Number\obj\Debug\LeetCode 268 Missing Number.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 268 Missing Number\obj\Debug\LeetCode 268 Missing Number.pdb
