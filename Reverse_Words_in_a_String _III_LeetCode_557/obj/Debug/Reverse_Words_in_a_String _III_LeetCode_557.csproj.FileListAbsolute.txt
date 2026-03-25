@@ -5,3 +5,4 @@ C:\Users\Msı\source\repos\LeetCodeCalısması\Reverse_Words_in_a_String _III_Le
 C:\Users\Msı\source\repos\LeetCodeCalısması\Reverse_Words_in_a_String _III_LeetCode_557\obj\Debug\Reverse_Words_in_a_String _III_LeetCode_557.csproj.CoreCompileInputs.cache
 C:\Users\Msı\source\repos\LeetCodeCalısması\Reverse_Words_in_a_String _III_LeetCode_557\obj\Debug\Reverse_Words_in_a_String _III_LeetCode_557.exe
 C:\Users\Msı\source\repos\LeetCodeCalısması\Reverse_Words_in_a_String _III_LeetCode_557\obj\Debug\Reverse_Words_in_a_String _III_LeetCode_557.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Reverse_Words_in_a_String _III_LeetCode_557\obj\Debug\Reverse_Words_in_a_String _III_LeetCode_557.exe.config
