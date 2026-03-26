@@ -11,7 +11,7 @@ namespace Reverse_Words_in_a_String__III_LeetCode_557
         static void Main(string[] args)
         {
 
-            string cumle = "Recai-Zade Mahmut Ekrem "; //
+            string cumle = "ints: @omerryasarr2 "; //
 
             string sonuc = ReserveWords(cumle);
 
