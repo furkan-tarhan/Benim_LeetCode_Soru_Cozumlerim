@@ -1,0 +1,7 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\bin\Debug\Majority Element.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\bin\Debug\Majority Element.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\bin\Debug\Majority Element.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.pdb
