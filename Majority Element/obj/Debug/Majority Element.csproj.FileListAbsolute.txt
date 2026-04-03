@@ -5,3 +5,4 @@ C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majori
 C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.csproj.CoreCompileInputs.cache
 C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.exe
 C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\Majority Element\obj\Debug\Majority Element.exe.config
