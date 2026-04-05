@@ -1,0 +1,8 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\obj\Debug\LeetCode 242 Valid Anagram.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\obj\Debug\LeetCode 242 Valid Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\bin\Debug\LeetCode 242 Valid Anagram.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\bin\Debug\LeetCode 242 Valid Anagram.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\bin\Debug\LeetCode 242 Valid Anagram.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\obj\Debug\LeetCode 242 Valid Anagram.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\obj\Debug\LeetCode 242 Valid Anagram.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\LeetCode 242 Valid Anagram\obj\Debug\LeetCode 242 Valid Anagram.exe.config
