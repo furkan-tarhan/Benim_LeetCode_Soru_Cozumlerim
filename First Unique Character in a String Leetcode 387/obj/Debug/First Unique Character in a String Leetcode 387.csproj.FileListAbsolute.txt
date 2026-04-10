@@ -1,0 +1,8 @@
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\obj\Debug\First Unique Character in a String Leetcode 387.csproj.AssemblyReference.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\obj\Debug\First Unique Character in a String Leetcode 387.csproj.CoreCompileInputs.cache
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\bin\Debug\First Unique Character in a String Leetcode 387.exe.config
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\bin\Debug\First Unique Character in a String Leetcode 387.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\bin\Debug\First Unique Character in a String Leetcode 387.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\obj\Debug\First Unique Character in a String Leetcode 387.exe
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\obj\Debug\First Unique Character in a String Leetcode 387.pdb
+C:\Users\Msı\source\repos\LeetCodeCalısması\First Unique Character in a String Leetcode 387\obj\Debug\First Unique Character in a String Leetcode 387.exe.config
