@@ -10,66 +10,37 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
     {
         static void Main(string[] args)
         {
-            string metin = "loveleetcode";
-
-            int sonuc = FirstUniqChar(metin);
-
-            Console.WriteLine("İlk benzersiz karakterin indexi: " + sonuc);
-            Console.ReadLine();
+            
 
 
-            // Console.WriteLine(EssizKarater("araba"));
+            Console.WriteLine(EssizKarater("araba")); // dasdasdasd
         }
-        public static int FirstUniqChar(string s)
+
+        public static int EssizKarater(string s)
         {
-            // Alfabedeki 26 harf için bir sayaç dizisi oluşturuyoruz
-            int[] sayac = new int[26];
 
-            // 1. TUR: Her harfin kaç kere geçtiğini hesapla
-            foreach (char c in s)
-            {
-                sayac[c - 'a']++;
-            }
 
-            // 2. TUR: Metni baştan sona tekrar tara
-            // Sayacı 1 olan ilk harfi bulduğumuzda indexini dön
+            char[] harf = s.ToCharArray();
+            Console.WriteLine(s);
             for (int i = 0; i < s.Length; i++)
             {
-                if (sayac[s[i] - 'a'] == 1)
+                for (int a = 0; a < s.Length; a++)
                 {
-                    return i;
+                    if (harf[i] == harf[a])
+                    {
+
+                        Console.WriteLine(i + " Eşsiz değil");
+                       
+                    }
+
+                    Console.WriteLine(i + ". eşsiz karakter");
                 }
+
             }
 
-            return -1; // Hiç benzersiz yoksa
+
+            return -1;
         }
-        #region
-
-        //public static int EssizKarater(string s)
-        //{
-
-
-        //    char[] harf = s.ToCharArray();
-        //    Console.WriteLine(s);
-        //    for (int i = 0; i < s.Length; i++)
-        //    {
-        //        for (int a = 0; a < s.Length; a++)
-        //        {
-        //            if (harf[i] == harf[a])
-        //            {
-
-        //                Console.WriteLine(i+" Eşsiz değil");
-        //                return false ;
-        //            }
-
-        //            Console.WriteLine(i + ". eşsiz karakter");
-        //        }
-
-        //    }
-
-
-        //    return -1;
-        // }
-        #endregion
+      
     }
 }
