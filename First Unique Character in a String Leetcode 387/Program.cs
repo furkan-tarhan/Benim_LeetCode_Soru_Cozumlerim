@@ -13,7 +13,7 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
             
 
 
-            Console.WriteLine(EssizKarater("araba")); // dasdasdasdzsdfc<zkxdshc<zxjdshb<zkjxdhcbkj<zahcvuaj
+            Console.WriteLine(EssizKarater("araba")); // daesfedfsfedz
         }
 
         public static int EssizKarater(string s)
