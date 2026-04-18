@@ -10,10 +10,18 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
     {
         static void Main(string[] args)
         {
-            
 
 
-            Console.WriteLine(EssizKarater("araba")); // daesfedfsfedz
+
+            for (int i=0;i<10000;i++)
+            {
+                Console.WriteLine(i+".Recai-zade Mahmut Ekrem");
+
+            }
+
+
+
+            Console.WriteLine(EssizKarater("arabam aaağğağ"));
         }
 
         public static int EssizKarater(string s)
@@ -30,7 +38,7 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
                     {
 
                         Console.WriteLine(i + " Eşsiz değil");
-                       
+
                     }
 
                     Console.WriteLine(i + ". eşsiz karakter");
@@ -41,6 +49,6 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
 
             return -1;
         }
-      
+
     }
 }
