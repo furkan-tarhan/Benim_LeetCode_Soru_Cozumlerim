@@ -10,44 +10,55 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
     {
         static void Main(string[] args)
         {
+            Random rnd = new Random();
 
+            int bilgisayar = rnd.Next(3);
 
-
-            for (int i=0;i<10000;i++)
+            Console.WriteLine("TAŞ KAĞIT MAKAS");  
+            Console.WriteLine("1-Makas");
+            Console.WriteLine("2-Kağıt");
+            Console.WriteLine("3-Taş");
+            Console.WriteLine("Lütfen Seçmek İstediğiniz Hareketin Sayısını Giriniz");
+            Console.Write("-");
+            int kullanıcı = int.Parse(Console.ReadLine());
+            if (kullanıcı>3)
             {
-                Console.WriteLine(i+".Recai-zade Mahmut Ekrem");
-
+                Console.WriteLine("Verilen Sayılardan Büyük Tuşlama Yaptınız");
+                Console.WriteLine("HATA");
             }
-
-
-
-            Console.WriteLine(EssizKarater("arabam aaağğağ"));
-        }
-
-        public static int EssizKarater(string s)
-        {
-
-
-            char[] harf = s.ToCharArray();
-            Console.WriteLine(s);
-            for (int i = 0; i < s.Length; i++)
+            else if (kullanıcı==1 & (bilgisayar+1)==2)
             {
-                for (int a = 0; a < s.Length; a++)
-                {
-                    if (harf[i] == harf[a])
-                    {
-
-                        Console.WriteLine(i + " Eşsiz değil");
-
-                    }
-
-                    Console.WriteLine(i + ". eşsiz karakter");
-                }
-
+                Console.WriteLine("KAZANDINIZ");
+                Console.WriteLine("Makas Kağıdı keser");
             }
+            else if (kullanıcı==2 & (bilgisayar + 1) == 3)
+            {
+                Console.WriteLine("KAZANDINIZ");
+                Console.WriteLine("Kağıt Taşı Yener ");
 
+            }else if (kullanıcı==3 & (bilgisayar + 1) == 1)
+            {
+                Console.WriteLine("KAZANDINIZ");
+                Console.WriteLine("Taş Makası Kırar");
+            }
+            else if (kullanıcı == 1 & (bilgisayar + 1) == 3)
+            {
+                Console.WriteLine("KAYBETTİNİZ");
+                Console.WriteLine("Taş Makası Kırar");
+            }else if (kullanıcı == 2 & (bilgisayar + 1) == 1)
+            {
+                Console.WriteLine("KAYBETTİNİZ");
+                Console.WriteLine("Makas Kağıdı Keser");
+            }
+            else if (kullanıcı == 3 & (bilgisayar + 1) == 2)
+            {
+                Console.WriteLine("KAYBETTİNİZ");
+                Console.WriteLine("Taş Makası Kırar");
+               
+            }
+          Console.WriteLine("HATA VAR AMINA KOYİM");
+            Console.Read();
 
-            return -1;
         }
 
     }
