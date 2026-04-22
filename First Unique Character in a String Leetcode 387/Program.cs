@@ -76,7 +76,7 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
             int bilgisayarSkor = 0;
             int kullanıcıSkor = 0;
             bool donguKontrolu = true;
-            Random rnd = new Random();
+            Random rnd = new Random(); // urfalıyam ezelden 
 
 
 
