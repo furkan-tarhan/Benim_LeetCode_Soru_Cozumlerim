@@ -30,7 +30,7 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
 
 
                 Console.WriteLine("********************************");
-                Console.WriteLine("Devam mı ? Tamam mı ?"); //dasdsd
+                Console.WriteLine("Devam mı ? Tamam mı ?"); //dasdsdsasjdhalskjdnja
                 Console.WriteLine("  ");
                 Console.WriteLine("Devam Etmek İçin 1 ' i Tuşlayınız");
                 Console.WriteLine("  ");
