@@ -10,7 +10,7 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
     internal class Program
     {
       
-      erqwefawe
+      //dgfgfdsferqwefawe
        
         static void Main(string[] args)
         {
