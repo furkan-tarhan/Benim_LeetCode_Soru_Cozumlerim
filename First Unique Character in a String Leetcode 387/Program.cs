@@ -9,8 +9,8 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
 {
     internal class Program
     {
-      asdasdasadasdsadasda
-            dasdasdasda
+     // asdasdasadasdsadasda
+       //     dasdasdasda
       //dgfgfdsferqwefawe
        
         static void Main(string[] args)
