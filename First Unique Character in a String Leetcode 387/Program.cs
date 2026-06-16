@@ -13,9 +13,7 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
       
         static void Main(string[] args)
         {
-       
-
-
+       asdfv
 
         }
       
