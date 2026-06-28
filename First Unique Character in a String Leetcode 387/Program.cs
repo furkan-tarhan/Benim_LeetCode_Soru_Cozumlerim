@@ -9,12 +9,12 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
 {
     internal class Program
     {
-    dfghjkşi
+   
         static void Main(string[] args)
         {
             double a = 0.1 + 0.2;
             Console.WriteLine($"{a:F90}");
-            sssssssssssssss
+        
 
         }
       
