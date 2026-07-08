@@ -14,7 +14,11 @@ namespace First_Unique_Character_in_a_String_Leetcode_387
         {
             double a = 0.1 + 0.2;
             Console.WriteLine($"{a:F90}");
-     Şaşkın sana ne dedim sen ne yaptın , dün gece gördüm seni  essaltu vessalmu aleyke ya resullallah akvaryum
+     Şaşkın sana ne dedim sen ne yaptın , dün gece gördüm seni  essaltu vessalmu aleyke ya resullallah akvaryum şu fıratın suyu serindir akar 
+                ,
+
+
+
 
 
         }
